@@ -1,5 +1,9 @@
 package org.example;
 
+
+
+//ZHUSHI
+//11223
 //交易结构体
 public class Transaction {
     private String ID;
